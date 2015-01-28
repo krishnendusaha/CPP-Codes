@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1361016410 source:c:\users\user\desktop\assignment\11cs10024_a02\2.quadratic\complex.cpp
+	<iostream>
+	<math.h>
+	"Complex.h"
+
+1361015826 c:\users\user\desktop\assignment\11cs10024_a02\2.quadratic\complex.h
+
+1361108326 source:c:\users\user\desktop\assignment\11cs10024_a02\2.quadratic\main.cpp
+	<iostream>
+	<math.h>
+	<setjmp.h>
+	"Complex.h"
+
+1361016410 source:c:\users\user\desktop\others\assignment\11cs10024_a02\2.quadratic\complex.cpp
+	<iostream>
+	<math.h>
+	"Complex.h"
+
+1361015826 c:\users\user\desktop\others\assignment\11cs10024_a02\2.quadratic\complex.h
+
+1361108326 source:c:\users\user\desktop\others\assignment\11cs10024_a02\2.quadratic\main.cpp
+	<iostream>
+	<math.h>
+	<setjmp.h>
+	"Complex.h"
+

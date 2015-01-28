@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1361021343 source:c:\users\user\desktop\gcc\complexcalculator\complex.cpp
+	<iostream>
+	<math.h>
+	"Complex.h"
+
+1388372106 "
+
+1361024251 c:\users\user\desktop\gcc\complexcalculator\complex.h
+
+1361007976 source:c:\users\user\desktop\gcc\complexcalculator\main.cpp
+	<iostream>
+	"Complex.h"
+
+1361021343 source:c:\users\user\desktop\gcc\assignment 2\complexcalculator\complex.cpp
+	<iostream>
+	<math.h>
+	"Complex.h"
+
+1361024251 c:\users\user\desktop\gcc\assignment 2\complexcalculator\complex.h
+
+1361107331 source:c:\users\user\desktop\gcc\assignment 2\complexcalculator\main.cpp
+	<iostream>
+	"Complex.h"
+
+1361021344 source:c:\users\user\desktop\assignment\11cs10024_a02\1.complexcalculator\complex.cpp
+	<iostream>
+	<math.h>
+	"Complex.h"
+
+1361024252 c:\users\user\desktop\assignment\11cs10024_a02\1.complexcalculator\complex.h
+
+1361107332 source:c:\users\user\desktop\assignment\11cs10024_a02\1.complexcalculator\main.cpp
+	<iostream>
+	"Complex.h"
+
+1387871728 source:c:\users\user\desktop\others\assignment\11cs10024_a02\1.complexcalculator\complex.cpp
+	<iostream>
+	<math.h>
+	"Complex.h"
+
+1388373842 c:\users\user\desktop\others\assignment\11cs10024_a02\1.complexcalculator\complex.h
+
+1388372106 source:c:\users\user\desktop\others\assignment\11cs10024_a02\1.complexcalculator\main.cpp
+	<iostream>
+	"Complex.h"
+
+1389074085 source:/media/krishnendu/OS/Users/user/Desktop/Recent/others/Assignment/11CS10024_A02/1.complexcalculator/Complex.cpp
+	<iostream>
+	<math.h>
+	"Complex.h"
+
+1389074083 /media/krishnendu/OS/Users/user/Desktop/Recent/others/Assignment/11CS10024_A02/1.complexcalculator/Complex.h
+
+1402028728 source:/media/krishnendu/OS/Users/user/Desktop/Recent/others/Assignment/11CS10024_A02/1.complexcalculator/main.cpp
+	<iostream>
+	"Complex.h"
+
